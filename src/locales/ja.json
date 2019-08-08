@@ -1,0 +1,8 @@
+{
+  "message": "hello i18n !!",
+  "calories": "カロリー",
+  "validation": {
+    "required": "{0}は必須項目です。",
+    "min_value": "{0}以上の値を入力してください。"
+  }
+}

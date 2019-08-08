@@ -1,0 +1,8 @@
+{
+  "message": "hello i18n !!",
+  "calories": "calories",
+  "validation": {
+    "required": "{0} is required.",
+    "min_value": "input over {0}."
+  }
+}
